@@ -18,7 +18,7 @@ const CONFIG = {
   locale: 'en-US',
   currency: 'USD',
   lowStockThreshold: 5,
-  pageSize: 12,
+  pageSize: 9,
   searchDebounceMs: 150,
   addedFeedbackMs: 1200,
   maxBadgeCount: 99,
